@@ -3,7 +3,7 @@
 Free NextJS Landing Page Template written in Next.js, Tailwind CSS 3, TypeScript, React, Framer, ESLint, Prettier, VSCode, PostCSS
 
 ## Demo
-[https://next-js-landing-page-template-pinnacle-commerce.vercel.app/](https://next-js-landing-page-template-pinnacle-commerce.vercel.app/)
+[https://next-js-landing-page-template-codewave.vercel.app/](https://next-js-landing-page-template-codewave.vercel.app/)
 ![](/public/images/codewave-wholepage.png)
 
 
