@@ -17,7 +17,7 @@ const Team = () => {
               <div className="mt-4">
                 <p className="text-sm leading-relaxed">
                   John architects and builds world-class digital products,
-                  approaching his work with a "Start with why" mindset to shape
+                  approaching his work with a &quot;Start with why&quot; mindset to shape
                   product outcomes through his technical expertise.
                 </p>
               </div>
