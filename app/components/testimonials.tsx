@@ -12,7 +12,7 @@ const Testimonials = () => {
             Codewave Technologies has been a game-changer for our business.
             Their team of experts seamlessly integrated cutting-edge solutions
             that transformed our operations and gave us a competitive edge in
-            the market. We're thrilled with the results and highly recommend
+            the market. We&apos;re thrilled with the results and highly recommend
             Codewave to any company looking to future-proof their technology.
           </p>
           <div className="flex flex-wrap items-center justify-center mt-8">
@@ -53,7 +53,7 @@ const Testimonials = () => {
             digital transformation journey. Their deep understanding of our
             industry and commitment to delivering tailored solutions have been
             instrumental in streamlining our processes, enhancing customer
-            experience, and driving measurable results. We couldn't be more
+            experience, and driving measurable results. We couldn&apos;t be more
             satisfied with their services.
           </p>
           <div className="flex flex-wrap items-center justify-center mt-8">

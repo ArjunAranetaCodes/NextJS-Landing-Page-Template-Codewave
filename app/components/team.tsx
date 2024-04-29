@@ -218,7 +218,7 @@ const Team = () => {
               <div className="mt-4">
                 <p className="text-sm leading-relaxed">
                   Liam designs and implements robust cybersecurity solutions to
-                  protect our clients' critical data and systems from evolving
+                  protect our clients&apos; critical data and systems from evolving
                   threats.
                 </p>
               </div>

@@ -4,10 +4,10 @@ const Contact = () => {
   return (
     <div className="grid sm:grid-cols-2 items-center gap-16 my-6 mx-auto max-w-4xl bg-white text-[#333] font-[sans-serif]">
       <div>
-        <h1 className="text-3xl font-extrabold">Let's Talk</h1>
+        <h1 className="text-3xl font-extrabold">Let&apos;s Talk</h1>
         <p className="text-sm text-gray-400 mt-3">
           Have some big idea or brand to develop and need help? Then reach out
-          we'd love to hear about your project and provide help.
+          we&apos;d love to hear about your project and provide help.
         </p>
         <div className="mt-12">
           <h2 className="text-lg font-extrabold">Email</h2>
